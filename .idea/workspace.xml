@@ -68,8 +68,18 @@
       <file leaf-file-name="2014_10_28_154945_create_users_table.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_10_28_154945_create_users_table.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.041667" vertical-offset="0" max-vertical-offset="779">
-              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+            <state vertical-scroll-proportion="-16.625" vertical-offset="0" max-vertical-offset="779">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0375" vertical-offset="0" max-vertical-offset="800">
+              <caret line="2" column="80" selection-start-line="2" selection-start-column="80" selection-end-line="2" selection-end-column="80" />
               <folding />
             </state>
           </provider>
@@ -88,8 +98,8 @@
       <file leaf-file-name="YodaController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/YodaController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.3037972" vertical-offset="0" max-vertical-offset="1241">
-              <caret line="20" column="74" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
+            <state vertical-scroll-proportion="-3.8481014" vertical-offset="87" max-vertical-offset="1241">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -105,10 +115,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="yoda.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="yoda.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/yoda.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7548387" vertical-offset="90" max-vertical-offset="3390">
+            <state vertical-scroll-proportion="-10.8" vertical-offset="135" max-vertical-offset="3390">
               <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
               <folding>
                 <element signature="e#1953#1974#0#HTML" expanded="true" />
@@ -121,16 +131,6 @@
                 <marker date="1414615853000" expanded="true" signature="7337:7454" placeholder="{...}" />
                 <marker date="1414615853000" expanded="true" signature="7519:7586" placeholder="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Comment.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/Comment.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="210">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -314,7 +314,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="yoda&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/views/yoda.blade.php&#10;route&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/routes.php&#10;yoda.b&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/views/yoda.blade.php&#10;yoda.&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/views/yoda.blade.php&#10;layout&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/views/layout.blade.php&#10;commen&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/controllers/CommentController.php&#10;routes&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/routes.php&#10;home&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/views/home.blade.php&#10;layo&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/views/layout.blade.php&#10;yoda.bla&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/views/yoda.blade.php&#10;migrations/&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/database/migrations&#10;style.&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/public/css/style.css&#10;layou&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/views/layout.blade.php&#10;usercon&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/controllers/UserController.php&#10;homecon&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/controllers/HomeController.php&#10;app&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/config/app.php&#10;app.php&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/config/app.php" />
+    <property name="SearchEverywhereHistoryKey" value="yodacon&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/controllers/YodaController.php&#10;yoda&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/views/yoda.blade.php&#10;route&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/routes.php&#10;yoda.b&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/views/yoda.blade.php&#10;yoda.&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/views/yoda.blade.php&#10;layout&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/views/layout.blade.php&#10;commen&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/controllers/CommentController.php&#10;routes&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/routes.php&#10;home&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/views/home.blade.php&#10;layo&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/views/layout.blade.php&#10;yoda.bla&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/views/yoda.blade.php&#10;migrations/&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/database/migrations&#10;style.&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/public/css/style.css&#10;layou&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/views/layout.blade.php&#10;usercon&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/controllers/UserController.php&#10;homecon&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/controllers/HomeController.php&#10;app&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/config/app.php&#10;app.php&#9;FILE&#9;file:///Applications/MAMP/htdocs/laravel/app/config/app.php" />
     <property name="FullScreen" value="true" />
   </component>
   <component name="RunManager">
@@ -590,22 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/UserController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-27.75" vertical-offset="234" max-vertical-offset="1035">
-          <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_10_29_081008_create_votes_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="615">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-25.25" vertical-offset="189" max-vertical-offset="990">
@@ -614,33 +598,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_10_28_154945_create_users_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.041667" vertical-offset="0" max-vertical-offset="779">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/YodaController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.3037972" vertical-offset="0" max-vertical-offset="1241">
-          <caret line="20" column="74" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="360">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/yoda.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7548387" vertical-offset="90" max-vertical-offset="3390">
+        <state vertical-scroll-proportion="-10.8" vertical-offset="135" max-vertical-offset="3390">
           <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
           <folding>
             <element signature="e#1953#1974#0#HTML" expanded="true" />
@@ -653,6 +613,54 @@
             <marker date="1414615853000" expanded="true" signature="7337:7454" placeholder="{...}" />
             <marker date="1414615853000" expanded="true" signature="7519:7586" placeholder="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_10_29_081008_create_votes_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="615">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.75" vertical-offset="234" max-vertical-offset="1035">
+          <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/YodaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.8481014" vertical-offset="87" max-vertical-offset="1241">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="360">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_10_28_154945_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.625" vertical-offset="0" max-vertical-offset="779">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0375" vertical-offset="0" max-vertical-offset="800">
+          <caret line="2" column="80" selection-start-line="2" selection-start-column="80" selection-end-line="2" selection-end-column="80" />
+          <folding />
         </state>
       </provider>
     </entry>
