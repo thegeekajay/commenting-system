@@ -1,0 +1,17 @@
+body{
+    font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", "Droid Arabic Kufi","Droid Sans";
+}
+
+h1.quote{
+    text-align: center;
+    font-size: 3em;
+}
+
+h1.quote > span{
+    font-size: 0.5em;
+}
+
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+}
